@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\CadastroPessoa\CI.Dos\bin\Debug\CI.Dos.exe.config
+C:\Users\Diego\source\repos\CadastroPessoa\CI.Dos\bin\Debug\CI.Dos.exe
+C:\Users\Diego\source\repos\CadastroPessoa\CI.Dos\bin\Debug\CI.Dos.pdb
+C:\Users\Diego\source\repos\CadastroPessoa\CI.Dos\obj\Debug\UI.Dos.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\CadastroPessoa\CI.Dos\obj\Debug\UI.Dos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\CadastroPessoa\CI.Dos\obj\Debug\CI.Dos.exe
+C:\Users\Diego\source\repos\CadastroPessoa\CI.Dos\obj\Debug\CI.Dos.pdb
